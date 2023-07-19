@@ -2,6 +2,9 @@
 
  **Web Robot**是一个使用**Electron框架**构建的桌面应用程序。它的主要功能是从用户提供的URL中**提取网页信息**，并**生成YML文件**以及**下载网页图标**。此外，程序还提供了一个功能来将下载的网页图标**转换为指定的图片格式**。
 
+碍于文件大小，源码请自行下载后查看。
+**源码路径**：`Web Robot\resources\app`
+
 ## 开发初衷
 
 这个程序是我在写基于hexo主题[**hexo-theme-webstack**](https://github.com/HCLonely/hexo-theme-webstack/)的导航栏时，觉得一个一个提取网站信息好麻烦，还得一直f12,所以用chatgpt3.5写了这么一个还算能用的软件。
